@@ -8,7 +8,7 @@
 
 ## Application structure
 
-- `client/` directory - React front end code.
+- `client/` directory - React front end code..
 - `server/` directory - Node.js back end code.
 - `static/` directory - Compiled front end assets. Created by webpack when you run the
 command `npm run build`. The Node.js back end serves serves these assets using the
