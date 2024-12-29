@@ -3,7 +3,7 @@ name: Upload Files to S3
 on:
   push:
     branches:
-      - main  # Trigger the workflow on push to the main branch
+      - master  # Trigger the workflow on push to the main branch
 
 jobs:
   upload_to_s3:
